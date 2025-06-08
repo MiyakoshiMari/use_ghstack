@@ -1,2 +1,2 @@
-//floor1 ha
+//floor1 
 //floor2 
