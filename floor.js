@@ -1,3 +1,3 @@
-//floor1 ha
+//floor1 
 //floor2 
 //floor3
